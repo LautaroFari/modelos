@@ -1,55 +1,11 @@
 {
-   
-        "producto": [
-            {
-                "nombre": "Aspirina",
-                "tipo": "Medicamento",
-                "precio": "$ 2500"
-            },
-            {
-                "nombre": "Vitaminas",
-                "tipo": "Suplemento",
-                "precio": "$ 3500"
-            },
-            {
-                "nombre": "Antibiótico",
-                "tipo": "Medicamento",
-                "precio": "$ 5000"
-            },
-            {
-                "nombre": "Calcio",
-                "tipo": "Suplemento",
-                "precio": "$ 3200"
-            },
-            {
-                "nombre": "Crema Hidratante",
-                "tipo": "Crema",
-                "precio": "$ 6000"
-            },
-            {
-                "nombre": "Ibuprofeno",
-                "tipo": "Analgesico",
-                "precio": "$ 5700"
-            },
-            {
-                "nombre": "Jarabe para la Tos",
-                "tipo": "Medicamento",
-                "precio": "$ 4500"
-            },
-            {
-                "nombre": "Pasta de Dientes",
-                "tipo": "Higiene Bucal",
-                "precio": "$ 1300"
-            },
-            {
-                "nombre": "Hilo Dental",
-                "tipo": "Higiene Bucal",
-                "precio": "$ 900"
-            },
-            {
-                "nombre": "Pañuelos de Papel",
-                "tipo": "Papel",
-                "precio": "$ 500"
-            }
-        ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
