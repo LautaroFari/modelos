@@ -1,7 +1,7 @@
 {
   "posts": [
-            {
-                "nombre": "Paracetamol 500mg",
+    {
+      "nombre": "Paracetamol 500mg",
                 "precio": "1850",
                 "descuento": "1350"
             },
@@ -15,6 +15,5 @@
                 "precio": "3000",
                 "descuento": "2000"
             }
-        ]
+  ]
 }
-
