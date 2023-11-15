@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+  <producto>
+    <nombre>Aspirina</nombre>
+    <tipo>Medicamento</tipo>
+    <precio>$ 2500</precio>
+  </producto>
+  <producto>
+    <nombre>Vitaminas</nombre>
+    <tipo>Suplemento</tipo>
+    <precio>$ 3500</precio>
+  </producto>
+  <producto>
+    <nombre>Antibiótico</nombre>
+    <tipo>Medicamento</tipo>
+    <precio>$ 5000</precio>
+  </producto>
+  <producto>
+    <nombre>Calcio</nombre>
+    <tipo>Suplemento</tipo>
+    <precio>$ 3200</precio>
+  </producto>
+  <producto>
+    <nombre>Crema Hidratante</nombre>
+    <tipo>Crema</tipo>
+    <precio>$ 6000</precio>
+  </producto>
+  <producto>
+    <nombre>Ibuprofeno</nombre>
+    <tipo>Analgesico</tipo>
+    <precio>$ 5700</precio>
+  </producto>
+  <producto>
+    <nombre>Jarabe para la Tos</nombre>
+    <tipo>Medicamento</tipo>
+    <precio>$ 4500</precio>
+  </producto>
+  <producto>
+    <nombre>Pasta de Dientes</nombre>
+    <tipo>Higiene Bucal</tipo>
+    <precio>$ 1300</precio>
+  </producto>
+  <producto>
+    <nombre>Hilo Dental</nombre>
+    <tipo>Higiene Bucal</tipo>
+    <precio>$ 900</precio>
+  </producto>
+  <producto>
+    <nombre>Pañuelos de Papel</nombre>
+    <tipo>Papel</tipo>
+    <precio>$ 500</precio>
+  </producto>
+</productos>
